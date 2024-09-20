@@ -1,0 +1,47 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "los": {
+            "sdtype": "numerical"
+        },
+        "admission_location": {
+            "sdtype": "categorical"
+        },
+        "icd_code": {
+            "sdtype": "categorical"
+        },
+        "anchor_age": {
+            "sdtype": "numerical"
+        },
+        "insurance": {
+            "sdtype": "categorical"
+        },
+        "ethnicity": {
+            "sdtype": "categorical"
+        },
+        "gender": {
+            "sdtype": "categorical"
+        },
+        "resprate": {
+            "sdtype": "numerical"
+        },
+        "sbp": {
+            "sdtype": "numerical"
+        },
+        "pain": {
+            "sdtype": "numerical"
+        },
+        "diag_count": {
+            "sdtype": "categorical"
+        },
+        "med_count": {
+            "sdtype": "numerical"
+        },
+        "ed_los": {
+            "sdtype": "numerical"
+        },
+        "prev_stay_avg_dur": {
+            "sdtype": "numerical"
+        }
+    }
+}
